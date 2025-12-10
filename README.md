@@ -16,6 +16,23 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jplara-cpe2025/CPE-009A-CPE12S1-2526/main?style=for-the-badge&logo=history&color=0077B6" />
   </p>
 
+<p align="center">
+  <a href="https://github.com/jplara-cpe2025">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=jplara-cpe2025&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+      alt="GitHub Streak"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
+    <img 
+      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
+      alt="Repo Activity Graph"
+    />
+  </a>
+</p>
 
 ##  Description
 This repository contains the Python projects and hands-on activities of this course.   
