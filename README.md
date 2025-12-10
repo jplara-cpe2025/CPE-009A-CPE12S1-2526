@@ -17,17 +17,6 @@
   </p>
 
 
-<p align="center">
-  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/network/members">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=social" />
-  </a>
-  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=social" />
-  </a>
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jplara-cpe2025/CPE-009A-CPE12S1-2526/main?color=orange" />
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/jplara-cpe2025/CPE-009A-CPE12S1-2526" />
-</p>
-
 ##  Description
 This repository contains the Python projects and hands-on activities of this course.   
 
