@@ -1,6 +1,6 @@
 # CPE-009A-CPE12S1-2526
 <p align="center">
-<img width="640" height="360" alt="CPE311 (8)" src="https://github.com/user-attachments/assets/01f0f2a4-4c91-47d2-a322-87dde51ba150" />
+  <img width="640" height="360" alt="CPE311 (8)" src="https://github.com/user-attachments/assets/01f0f2a4-4c91-47d2-a322-87dde51ba150" />
 </p>
 
 <p align="center">
@@ -15,6 +15,17 @@
   </a>
   <br />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=social" />
+  </a>
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=social" />
+  </a>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jplara-cpe2025/CPE-009A-CPE12S1-2526/main?color=orange" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/jplara-cpe2025/CPE-009A-CPE12S1-2526" />
 </p>
 
 ##  Description
