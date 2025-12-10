@@ -46,4 +46,15 @@ This repository contains the Python projects and hands-on activities of this cou
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
-
+<p align="center">
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=for-the-badge&logo=github&color=F9CC30" />
+  </a>
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/network/members">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=for-the-badge&logo=git&color=3399CC" />
+  </a>
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/watchers">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/jplara-cpe2025/CPE-009A-CPE12S1-2526?style=for-the-badge&logo=eye&color=555555" />
+  </a>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jplara-cpe2025/CPE-009A-CPE12S1-2526/main?style=for-the-badge&logo=history&color=0077B6" />
+  </p>
