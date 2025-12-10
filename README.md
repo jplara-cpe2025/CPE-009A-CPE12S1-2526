@@ -19,13 +19,14 @@
 <p align="center">
   <a href="https://github.com/jplara-cpe2025">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jplara-cpe2025&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=jplara-cpe2025&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
       alt="GitHub Streak"
     />
   </a>
+</p>
 
+<p align="center">
   <br/>
-
   <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
     <img 
       src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
