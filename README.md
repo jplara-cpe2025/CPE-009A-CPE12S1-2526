@@ -15,7 +15,7 @@ This repository contains the Python projects and activities of this course.
 * Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 
 # Links
+[![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-009A-CPE12S1-2526)](https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/graphs/contributors)
 * [GitHub](https://github.com/jplara-cpe2025)
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
-[![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-009A-CPE12S1-2526)](https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/graphs/contributors)
