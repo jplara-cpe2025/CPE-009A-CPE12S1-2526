@@ -12,20 +12,10 @@
   </a>
 </p>
 
-<p align="center">
-  <br/>
-  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
-    <img 
-      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
-      alt="Repo Activity Graph"
-    />
-  </a>
-</p>
-
 ##  Description
 This repository contains the Python projects and hands-on activities of this course.   
 
-# ℹ️ About Me
+## ℹ️ About Me
 * Name: Juan Paulo Lara
 * Program: CpE
 * Section: CPE12S2
@@ -40,3 +30,13 @@ This repository contains the Python projects and hands-on activities of this cou
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
+# Repository Activity
+<p align="center">
+  <br/>
+  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
+    <img 
+      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
+      alt="Repo Activity Graph"
+    />
+  </a>
+</p>
