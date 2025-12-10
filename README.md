@@ -3,6 +3,9 @@
 
 # Information
 Name: Juan Paulo Lara
+
 Program: CpE
+
 Section: CPE12S2
+
 Course: Objective Oriented Programming
