@@ -46,3 +46,16 @@ This repository contains the Python projects and hands-on activities of this cou
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jplara-cpe2025&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jplara-cpe2025&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jplara-cpe2025&show_icons=true" />
+</picture>
+
+
