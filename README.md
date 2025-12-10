@@ -18,9 +18,9 @@
 </p>
 
 ##  Description
-This repository contains the Python projects and activities of this course.  
+This repository contains the Python projects and hands-on activities of this course.   
 
-# ℹ️ About
+# ℹ️ About Me
 * Name: Juan Paulo Lara
 * Program: CpE
 * Section: CPE12S2
