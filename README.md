@@ -22,7 +22,7 @@ This repository contains the Python projects and hands-on activities of this cou
 ## ℹ️ About Me
 * Name: Juan Paulo Lara
 * Program: CpE
-* Section: CPE12S2
+* Section: CPE12S1
 * Course: Objective Oriented Programming
 
 ## ⚙️ Programming Languages
