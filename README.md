@@ -34,33 +34,13 @@ This repository contains the Python projects and hands-on activities of this cou
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
-# Repository Statistics
+# 🏆 Repository Statistics
 <p align="center">
   <br/>
   <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
     <img 
       src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&custom_title=Repository%20Activity&theme=xcode&hide_border=true&area=true" 
       alt="Repo Activity Graph"
-    />
-  </a>
-</p>
-
-<p align="center">
-  ### 📊 Repository Activity Graph
-  <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
-    <img 
-      src="https://activity-graph.vercel.app/graph?username=jplara-cpe2025&repo=CPE-009A-CPE12S1-2526&custom_title=Repository%20Commit%20Activity&theme=xcode&hide_border=true&area=true" 
-      alt="Repo Activity Graph"
-    />
-  </a>
-  
-  <br/>
-  
-  ### 🏆 Personal Contribution Streak
-  <a href="https://github.com/jplara-cpe2025">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jplara-cpe2025&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-      alt="GitHub Streak"
     />
   </a>
 </p>
