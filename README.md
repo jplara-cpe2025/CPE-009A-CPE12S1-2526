@@ -12,8 +12,6 @@
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jplara-cpe2025/CPE-009A-CPE12S1-2526?color=0088ff" />
   </a>
   <br />
-  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-    <img src="./powered-by-vercel.svg"/>
   </a>
 </p>
 
