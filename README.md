@@ -34,7 +34,7 @@ This repository contains the Python projects and hands-on activities of this cou
 * [GitHub](https://github.com/jplara-cpe2025) <a href="https://github.com/jplara-cpe2025" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="20" height="20"/> </a>
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
-# Repository Activity
+# Repository Statistics
 <p align="center">
   <br/>
   <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
