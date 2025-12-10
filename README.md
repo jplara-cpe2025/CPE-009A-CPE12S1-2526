@@ -11,10 +11,10 @@
     <img alt="Tests Coverage" src="https://codecov.io/gh/jplara-cpe2025/CPE-009A-CPE12S1-2526/branch/master/graph/badge.svg" />
   </a>
   <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/jplara-cpe2025/CPE-009A-CPE12S1-2526?color=0088ff" />
   </a>
   <a href="https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jplara-cpe2025/CPE-009A-CPE12S1-2526?color=0088ff" />
   </a>
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526">
     <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/badge" />
