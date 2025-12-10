@@ -18,4 +18,4 @@ This repository contains the Python projects and activities of this course.
 * [GitHub](https://github.com/jplara-cpe2025)
 * [Canvas](https://tip.instructure.com/courses/73254/users/91474)
 
-[![GitHub Contributors](img.shields.io)](https://github.com/OWNER/REPO/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=jplara-cpe2025/CPE-009A-CPE12S1-2526)](https://github.com/jplara-cpe2025/CPE-009A-CPE12S1-2526/graphs/contributors)
